@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+
+}
+h4{
+    display: inline;
+    margin-left:200px;
+    margin-right:500px;
+}
+.headText{
+    text-align: center; 
+
+}
